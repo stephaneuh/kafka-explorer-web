@@ -1,0 +1,8 @@
+/.idea/
+/docker/api/src/app/screenshots/
+/node_modules/
+/docker/elasticsearch-data/
+/docker/api/src/app/node_modules/
+/docker/api/src/app/db.json
+/docker/database/
+/docker/api/node_modules/
