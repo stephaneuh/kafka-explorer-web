@@ -32,7 +32,7 @@ docker-compose up -d
 Start local NodeJS api
 
 ```
-cd docker/kafka-explorer/src/app
+cd docker/api/src/app
 node src/app/index.js
 ```
 
