@@ -1,0 +1,22 @@
+
+Todo:
+
+ { parkId: "parc-national-des-grands-jardins", sectors : ["
+ { parkId: "parc-national-des-hautes-gorges-de-la-riviere-malbaie", sectors : ["
+ { parkId: "parc-national-du-lac-temiscouata", sectors : ["
+ { parkId: "parc-national-des-monts-valin", sectors : ["
+ { parkId: "parc-national-d-opemican", sectors : ["
+ { parkId: "parc-national-de-plaisance", sectors : ["
+ { parkId: "parc-national-de-la-pointe-taillon", sectors : ["
+ { parkId: "reserve-faunique-ashuapmushuan", sectors : ["
+ { parkId: "reserve-faunique-la-verendrye", sectors : ["
+ { parkId: "reserve-faunique-des-laurentides", sectors : ["
+ { parkId: "reserve-faunique-mastigouche", sectors : ["
+ { parkId: "reserve-faunique-de-matane", sectors : ["
+ { parkId: "reserve-faunique-de-papineau-labelle", sectors : ["
+ { parkId: "reserve-faunique-de-port-cartier-sept-iles", sectors : ["
+ { parkId: "reserve-faunique-de-port-daniel", sectors : ["
+ { parkId: "reserve-faunique-de-portneuf", sectors : ["
+ { parkId: "reserve-faunique-de-rimouski", sectors : ["
+ { parkId: "reserve-faunique-rouge-matawin", sectors : ["
+ { parkId: "reserve-faunique-du-saint-maurice", sectors : ["

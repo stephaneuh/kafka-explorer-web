@@ -1,0 +1,174 @@
+[
+  {
+    "_id": {
+      "$oid": "637ad15f99b2120007a3da49"
+    },
+    "parkId": "camping-des-voltigeurs",
+    "sectors": [
+      "camping-des-voltigeurs"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "637ad1d00563cb7a0d7781de"
+    },
+    "parkId": "parc-national-d-aiguebelle",
+    "sectors": [
+      "abijevis",
+      "barlow-espace-vr",
+      "du-sablon",
+      "ojibway"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "637ad2380563cb7a0d7781e0"
+    },
+    "parkId": "centre-touristique-du-lac-kenogami",
+    "sectors": [
+      "camping-du-lac-kenogami"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "637ad2460563cb7a0d7781e2"
+    },
+    "parkId": "centre-touristique-du-lac-simon",
+    "sectors": [
+      "camping-du-lac-simon"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "637ad2560563cb7a0d7781e4"
+    },
+    "parkId": "parc-national-du-bic",
+    "sectors": [
+      "camping-riviere-du-sud-ouest",
+      "la-coulee",
+      "rioux",
+      "tombolo-camping"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "637ad2b60563cb7a0d7781e6"
+    },
+    "parkId": "parc-national-des-iles-de-boucherville",
+    "sectors": [
+      "grosbois,molson-espace-vr"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "637ad3f10563cb7a0d7781e8"
+    },
+    "parkId": "parc-national-du-fjord-du-saguenay",
+    "sectors": [
+      "Baie-Sainte-Marguerite",
+      "Baie-Eternite"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6383d6b3a5f11c0007789a08"
+    },
+    "parkId": "parc-national-de-frontenac",
+    "sectors": [
+      "Saint-Daniel",
+      "Secteur-Sud"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6383d6d6a5f11c0007789a09"
+    },
+    "parkId": "parc-national-de-la-gaspesie",
+    "sectors": [
+      "Camping-de-la-Riviere",
+      "Camping-Lac-Cascapedia",
+      "Camping-Mont-Albert",
+      "Camping-Mont-Jacques-Cartier",
+      "La-Vallee-Espace-VR"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6383d6e0a5f11c0007789a0a"
+    },
+    "parkId": "parc-national-du-mont-megantic",
+    "sectors": [
+      "De-Franceville",
+      "Grande-Ourse"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6383d6f6a5f11c0007789a0b"
+    },
+    "parkId": "parc-national-du-mont-orford",
+    "sectors": [
+      "Lac-Fraser",
+      "Lac-Stukely",
+      "Le-Vallonnier"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6383d6fea5f11c0007789a0c"
+    },
+    "parkId": "parc-national-du-mont-tremblant",
+    "sectors": [
+      "De-La-Sablonniere",
+      "L-Assomption",
+      "La-Voliere-Lac-Provost",
+      "Lac-des-Cypres-et-lac-Girondin",
+      "Lac-aux-Rats-et-Lac-Lajoie",
+      "Lac-Cache",
+      "Lac-Chat",
+      "Lac-des-Sables",
+      "Lac-Escalier",
+      "Lac-Herman",
+      "Lac-Monroe",
+      "Savane-Ouest"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6383d708a5f11c0007789a0d"
+    },
+    "parkId": "parc-national-de-la-jacques-cartier",
+    "sectors": [
+      "De-la-Vallee-Espace-VR",
+      "Des-Alluvions",
+      "Grand-Duc",
+      "L-Escarpement",
+      "La-Betulaie",
+      "Le-Heron",
+      "Le-Morillon",
+      "Les-Hirondelles"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6383d70fa5f11c0007789a0e"
+    },
+    "parkId": "parc-national-d-oka",
+    "sectors": [
+      "De-l-Anse",
+      "La-Crete",
+      "Le-Refuge",
+      "Les-Dunes"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6383d716a5f11c0007789a0f"
+    },
+    "parkId": "parc-national-de-la-yamaska",
+    "sectors": [
+      "Camping-du-parc-de-la-Yamaska",
+      "Le-Rivage"
+    ]
+  }
+]
