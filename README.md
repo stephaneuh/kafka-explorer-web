@@ -1,14 +1,24 @@
-# web-scrapping
+# kafka-explorer
 
 ## Setup
 Run `npm install` without arguments to install nodeJS modules defined in the dependencies section of the package.json file.
 
+```
+cd docker/vuejs
+npm install
+```
+
+```
+cd docker/api
+npm install
+```
+
 It's important that `npm install` is run in the same directory as the package.json file.
 
-## Build web-scrapping docker image
+## Build kafka-explorer docker image
 ```
-cd docker/webscrapping
-docker build -t stephaneuh/webscrapping -f Dockerfile .
+cd docker
+docker build -t stephaneuh/kafka-explorer -f Dockerfile .
 ```
 
 ## Local Execution
@@ -22,7 +32,7 @@ docker-compose up -d
 Start local NodeJS api
 
 ```
-cd docker/webscrapping/src/app
+cd docker/kafka-explorer/src/app
 node src/app/index.js
 ```
 

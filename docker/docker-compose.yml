@@ -1,9 +1,9 @@
 version: "3.7"
 
 services:
-  webscrapping:
-    image: stephaneuh/webscrapping
-    container_name: webscrapping
+  kafka-explorer:
+    image: stephaneuh/kafka-explorer
+    container_name: kafka-explorer
 
   mongo:
     image: mongo:latest
